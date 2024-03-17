@@ -1,0 +1,21 @@
+# complete the correct git command
+
+# Setup
+- Creates a new Git repository:
+- Downloads an existing repository from a remote location:
+
+
+# Tracking Changes
+- Adds files to the staging area, which tells Git you want to include them in the next commit:
+- Creates a snapshot of the repository with a descriptive message:
+- Shows the current status of your working directory, including any unstaged or staged changes:
+
+
+# Viewing History
+- Shows the commit history of the repository:
+
+
+# Remote Repositories
+Adds, removes, or lists remote repositories:
+Uploads your local commits to a remote repository:
+Downloads changes from a remote repository and merges them into your local branch:
