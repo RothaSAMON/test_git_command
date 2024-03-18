@@ -16,6 +16,6 @@
 
 
 # Remote Repositories
-Adds, removes, or lists remote repositories:
+Adds, removes, or lists remote repositories: git remote
 Uploads your local commits to a remote repository: git push origin main
 Downloads changes from a remote repository and merges them into your local branch: git pull url
