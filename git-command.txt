@@ -1,7 +1,7 @@
 # complete the correct git command
 
 # Setup
-- Creates a new Git repository:
+- Creates a new Git repository: git init
 - Downloads an existing repository from a remote location:
 
 
